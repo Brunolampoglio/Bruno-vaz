@@ -6,5 +6,5 @@
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunolampoglio&layout=compact)](https://github.com/Brunolampoglio/github-readme-stats)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brunolampoglio)](https://github.com/anuraghazra/github-readme-stats)****
+ 
 
